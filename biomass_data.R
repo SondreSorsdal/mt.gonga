@@ -8,7 +8,7 @@ use_git_config(
 
 
 use_git()
-
+use_github()
 
 
 #packages
