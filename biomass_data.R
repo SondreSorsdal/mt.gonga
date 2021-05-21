@@ -5,7 +5,6 @@ use_git_config(
   user.email = "sondre.sorsdal@gmail.com.com"
 )
 
-usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
 
 
 use_git()
@@ -57,3 +56,4 @@ Site_H_df <- data_H %>%
 
 #some new comments to test git
 #some more comments
+#Test
